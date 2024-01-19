@@ -6,7 +6,6 @@
 
 This repository contains the development and testing of a prototype for novel observation sensors designed to continuously measure changes in water level using pressure loggers. The goal is to collect observations in real-time and facilitate the monitoring of water levels.
 
-<font color="red">Recommended items are highlighted in red</font>
 
 ## Components
 
@@ -48,3 +47,5 @@ To enable real-time data transfer, a communication module is integrated into the
 
 - https://doi.org/10.1016/j.coldregions.2011.03.005 
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706819/
+
+<span style="color:red;">Recommended items are highlighted in red</span>
