@@ -40,10 +40,7 @@ To enable real-time data transfer, a communication module is integrated into the
 
 ## Estimated Total Cost 
 
- Total cost estimated between <strong>$800-to ...</strong>
-
-Bu bir normal metin satırıdır. <span style="font-size: 4.5em;">Bu kısım büyük yazı boyutunda</span> devam eden metin.
-
+ ### Total cost estimated between <strong>$800-to ...</strong>
 
 ## Comments: (TO_DO igul)
 - The submersible pressure sensor is crucial for accurately measuring water pressure at various depths.
