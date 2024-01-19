@@ -24,7 +24,7 @@ To enable real-time data transfer, a communication module is integrated into the
 
 | Component Name          | Quantity | Description                             | Unit Price (USD) | Total Cost (USD) |
 |-------------------------|----------|-----------------------------------------|-------------------|------------------|
-| [Communication Module] (communicationModule.md)    | 1        | Enables real-time data transmission      | $40 | $40 |
+| [Communication Module](communicationModule.md) | 1        | Enables real-time data transmission      | $40 | $40 |
 | [Power Supply](powerSupply.md) | 1 | Provides power to sensors and data logger and communication module| $70 | $70 |
 
 ### Additional Components
