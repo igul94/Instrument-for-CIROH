@@ -1,4 +1,4 @@
 |Item                         |Cost per Instrument|
-|-----------------------------|--------------------------|-----------------|---------------|
+|-----------------------------|--------------------------|
 |[Solinst Model 3001 Levelogger 5, 5 Meter to 200 Meter Length](https://shop.prmfiltration.com/products/solinst-model-3001-levelogger-5-5-meter-to-200-meter-length?currency=USD&variant=43447341285561&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&stkn=b12a3a614f9f&keyword=&utm_adgroup=&utm_medium=ppc&utm_term=&utm_campaign=GS+-+Water+Level+Indicators&utm_source=adwords&hsa_kw=&hsa_cam=20792052705&hsa_ver=3&hsa_acc=5711099154&hsa_ad=681932524696&hsa_grp=153781953777&hsa_src=g&hsa_mt=&hsa_tgt=pla-1393587162910&hsa_net=adwords&gad_source=1&gclid=Cj0KCQiAtaOtBhCwARIsAN_x-3KLRvhvtkdTshuhJON8LnKMiagUCHcsij2NafXIlm1MgPoZEa6syJkaAh8CEALw_wcB) |$665|
 
