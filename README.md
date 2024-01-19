@@ -31,8 +31,8 @@ To enable real-time data transfer, a communication module is integrated into the
 
 | Component Name          | Quantity | Description                                   | Unit Price (USD) | Total Cost (USD) |
 |-------------------------|----------|-----------------------------------------------|-------------------|------------------|
-| Enclosure/Protection    | 2        | Waterproof housing for sensors and logger     | [Unit Price]      | [Total Cost]     |
-| Mounting Hardware       | 4        | Hardware to secure sensors in place           | [Unit Price]      | [Total Cost]     |
-| Cables and Connectors    | 1        | Connects sensors to data logger               | [Unit Price]      | [Total Cost]     |
-| Calibration Equipment    | 1        | Instruments for sensor calibration           | [Unit Price]      | [Total Cost]     |
-| Software                | 1        | Software for configuration and data analysis | [Unit Price]      | [Total Cost]     |
+| Enclosure/Protection    | 1        | Waterproof housing for sensors and logger (stainless steel)     | $50 | $50 |
+| Mounting Hardware       | 1        | Hardware to secure sensors in place           | $40 | $40 |
+| Cables and Connectors    | 1        | Connects sensors to data logger               | $30 | $30 |
+| Calibration Equipment    | 1        | Instruments for sensor calibration           |  $50 |  $50 |
+| Software                | 1        | Software for configuration and data analysis | Included | Included |
