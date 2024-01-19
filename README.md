@@ -1,6 +1,6 @@
-"# Instrument-for-CIROH" 
+"# Instruments-for-CIROH" 
 
-# Submersible Water Level Monitoring Sensor Prototype
+# Submersible Water Level and Ice Thickness Monitoring Sensor Prototype
 
 ## Overview
 
