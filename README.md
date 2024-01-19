@@ -27,7 +27,7 @@ To enable real-time data transfer, a communication module is integrated into the
 | [Communication Module](communicationModule.md) | 1        | Enables real-time data transmission      | $40 | $40 |
 | [Power Supply](powerSupply.md) | 1 | Provides power to sensors and data logger and communication module| $70 | $70 |
 
-### Additional Components
+### 3. Additional Components
 
 | Component Name          | Quantity | Description                                   | Unit Price (USD) | Total Cost (USD) |
 |-------------------------|----------|-----------------------------------------------|-------------------|------------------|
@@ -36,3 +36,12 @@ To enable real-time data transfer, a communication module is integrated into the
 | [Cables and Connectors](https://www.wireandcableyourway.com/submersible-pump-cable)    | 1        | Connects sensors to data logger               | $30 | $30 |
 | [Calibration Equipment](https://catalog.marquestscientific.com/item/solators-mini-tuff-guard-2-economy-gauge-installed/mini-tuff-gauge-isolator-2-economy-gauge-installed/mtg-22200s-pvc?gclid=Cj0KCQiA2KitBhCIARIsAPPMEhKZ0o6HKaEeIxSrRTRwFAI5jHU1AIoItZRNbcVqwtJxx7sKXvmgxLMaArjzEALw_wcB)  | 1        | Instruments for sensor calibration           |  $50 |  $50 |
 | Software                | 1        | Software for configuration and data analysis | Included | Included |
+
+## Comments:
+- The submersible pressure sensor is crucial for accurately measuring water pressure at various depths.
+- Consider selecting a temperature sensor with suitable precision for accurate water temperature measurements.
+- The data logger plays a key role in recording and storing data; ensure compatibility with the selected sensors.
+
+## Sample Studies
+
+https://doi.org/10.1016/j.coldregions.2011.03.005
