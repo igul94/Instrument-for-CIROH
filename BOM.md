@@ -1,6 +1,6 @@
 |Item                         |Qty per Instrument|Cost of each unit|Cost per Instrument|
 |-----------------------------|--------------------------|-----------------|---------------|
-|[Pressure/ Temperature Sensors with data loggers](https://heltec.org/project/htcc-ab02/) |1|$14.40|$14.40|   
+|[Heltec AB02](https://heltec.org/project/htcc-ab02/) |1|$14.40|$14.40|   
 |[0.6W solar panel](https://voltaicsystems.com/0-6-watt-6-volt-solar-panel-etfe/)|1|$9.00|$9.00| 
 |[0.6W panel gasket](https://voltaicsystems.com/gasket-0-6w/) |1|$1.50|$1.50|                                                                                                                      
 |[3D printer filament](https://www.amazon.com/Polymaker-Filament-1-75mm-Resistant-Cardboard/dp/B09DKP1TYK/)|1 |$2.75|$2.75|
