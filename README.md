@@ -14,7 +14,7 @@ The submersible sensor unit consists of the following components:
 
 | Component Name              | Manufacturer   | Model/Part Number  | Quantity | Description                                     | Features                                              | Unit Price (USD) | Total Cost (USD) |
 |-----------------------------|----------------|--------------------|----------|-------------------------------------------------|-------------------------------------------------------|-------------------|------------------|
-| Submersible Pressure Sensor (submersible water sensors.md)  | [Manufacturer]  | [Model/Part Number]| 1        | Measures water pressure at specific depth       | [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Submersible Pressure Sensor (../Instrument-for-CIROH/submersible water sensors.md)  | [Manufacturer]  | [Model/Part Number]| 1        | Measures water pressure at specific depth       | [Features]                                            | [Unit Price]      | [Total Cost]     |
 | Temperature Sensor           | [Manufacturer]  | [Model/Part Number]| 1        | Measures water temperature                      | [Features]                                            | [Unit Price]      | [Total Cost]     |
 | Data Logger                  | [Manufacturer]  | [Model/Part Number]| 1        | Records and stores sensor data                   | [Features]                                            | [Unit Price]      | [Total Cost]     |
 | Power Supply                 | [Manufacturer]  | [Model/Part Number]| 4        | Provides power to sensors and data logger        | [Features]                                            | [Unit Price]      | [Total Cost]     |
