@@ -32,7 +32,7 @@ To enable real-time data transfer, a communication module is integrated into the
 | Component Name          | Quantity | Description                                   | Unit Price (USD) | Total Cost (USD) |
 |-------------------------|----------|-----------------------------------------------|-------------------|------------------|
 | [Enclosure/Protection]   | 2        | Waterproof housing for sensors and logger (stainless steel)     | $25 | $50 |
-| [Mounting Hardware] (https://www.sharpsassure.com/shop/sharps/mounting-bracket/?gclid=Cj0KCQiA2KitBhCIARIsAPPMEhLwxSgSXX5XK6DDjeKm2ef5R79lE2365sOzfLhKW3yoSH2E99uJW2AaAlrlEALw_wcB)       | 1        | Hardware to secure sensors in place           | $40 | $40 |
+| [Mounting Hardware]   | 1        | Hardware to secure sensors in place           | $40 | $40 |
 | [Cables and Connectors](https://www.wireandcableyourway.com/submersible-pump-cable)    | 1        | Connects sensors to data logger               | $30 | $30 |
-| [Calibration Equipment]  (https://catalog.marquestscientific.com/item/solators-mini-tuff-guard-2-economy-gauge-installed/mini-tuff-gauge-isolator-2-economy-gauge-installed/mtg-22200s-pvc?gclid=Cj0KCQiA2KitBhCIARIsAPPMEhKZ0o6HKaEeIxSrRTRwFAI5jHU1AIoItZRNbcVqwtJxx7sKXvmgxLMaArjzEALw_wcB)  | 1        | Instruments for sensor calibration           |  $50 |  $50 |
+| [Calibration Equipment](https://catalog.marquestscientific.com/item/solators-mini-tuff-guard-2-economy-gauge-installed/mini-tuff-gauge-isolator-2-economy-gauge-installed/mtg-22200s-pvc?gclid=Cj0KCQiA2KitBhCIARIsAPPMEhKZ0o6HKaEeIxSrRTRwFAI5jHU1AIoItZRNbcVqwtJxx7sKXvmgxLMaArjzEALw_wcB)  | 1        | Instruments for sensor calibration           |  $50 |  $50 |
 | Software                | 1        | Software for configuration and data analysis | Included | Included |
