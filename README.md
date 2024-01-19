@@ -17,15 +17,15 @@ The submersible sensor unit consists of the following components:
 | [Submersible Pressure Sensor](submersiblePressureSensors.md)  | [Manufacturer]  | [Model/Part Number]| 1        | Measures water pressure at specific depth       | [Features]                                            | [Unit Price]      | [Total Cost]     |
 | Temperature Sensor           | [Manufacturer]  | [Model/Part Number]| 1        | Measures water temperature                      | [Features]                                            | [Unit Price]      | [Total Cost]     |
 | Data Logger                  | [Manufacturer]  | [Model/Part Number]| 1        | Records and stores sensor data                   | [Features]                                            | [Unit Price]      | [Total Cost]     |
-| Power Supply                 | [Manufacturer]  | [Model/Part Number]| 4        | Provides power to sensors and data logger        | [Features]                                            | [Unit Price]      | [Total Cost]     |
 
-### 2. Communication Module
+### 2. Real-time Data Transfer Unit
 
 To enable real-time data transfer, a communication module is integrated into the system. This includes:
 
 | Component Name          | Manufacturer   | Model/Part Number  | Quantity | Description                             | Features                                              | Unit Price (USD) | Total Cost (USD) |
 |-------------------------|----------------|--------------------|----------|-----------------------------------------|-------------------------------------------------------|-------------------|------------------|
 | Communication Module    | [Manufacturer]  | [Model/Part Number]| 1        | Enables real-time data transmission      | [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Power Supply            | [Manufacturer]  | [Model/Part Number]| 4        | Provides power to sensors and data logger| [Features]                                            | [Unit Price]      | [Total Cost]     |
 
 ### Additional Components
 
