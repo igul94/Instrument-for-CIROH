@@ -25,11 +25,3 @@ To enable real-time data transfer, a communication module is integrated into the
 - **Antenna:** Enhances the communication range.
 - **Data Processing Unit:** Prepares data for transmission.
 
-## Installation
-
-Follow these steps to set up the submersible water level monitoring sensor:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone <repository_url>
-   cd submersible-water-level-sensor
