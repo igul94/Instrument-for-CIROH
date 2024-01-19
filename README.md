@@ -12,29 +12,27 @@ This repository contains the development and testing of a prototype for novel ob
 
 The submersible sensor unit consists of the following components:
 
-| Component Name              | Manufacturer   | Model/Part Number  | Quantity | Description                                     | Features                                              | Unit Price (USD) | Total Cost (USD) |
-|-----------------------------|----------------|--------------------|----------|-------------------------------------------------|-------------------------------------------------------|-------------------|------------------|
-| [Submersible Pressure Sensor](submersiblePressureSensors.md)  | [Manufacturer]  | [Model/Part Number]| 1        | Measures water pressure at specific depth       | [Features]                                            | [Unit Price]      | [Total Cost]     |
-| Temperature Sensor           | [Manufacturer]  | [Model/Part Number]| 1        | Measures water temperature                      | [Features]                                            | [Unit Price]      | [Total Cost]     |
-| Data Logger                  | [Manufacturer]  | [Model/Part Number]| 1        | Records and stores sensor data                   | [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Component Name              | Quantity | Description                                     | Unit Price (USD) | Total Cost (USD) |
+|-----------------------------|----------|-------------------------------------------------|-------------------|------------------|
+| [Submersible Pressure Sensor](submersiblePressureSensors.md)  | 1        | Measures water pressure at specific depth       | [Unit Price]      | [Total Cost]     |
+| Temperature Sensor           | 1        | Measures water temperature                      | [Unit Price]      | [Total Cost]     |
+| Data Logger                  | 1        | Records and stores sensor data                   | [Unit Price]      | [Total Cost]     |
 
 ### 2. Real-time Data Transfer Unit
 
 To enable real-time data transfer, a communication module is integrated into the system. This includes:
 
-| Component Name          | Manufacturer   | Model/Part Number  | Quantity | Description                             | Features                                              | Unit Price (USD) | Total Cost (USD) |
-|-------------------------|----------------|--------------------|----------|-----------------------------------------|-------------------------------------------------------|-------------------|------------------|
-| Communication Module    | [Manufacturer]  | [Model/Part Number]| 1        | Enables real-time data transmission      | [Features]                                            | [Unit Price]      | [Total Cost]     |
-| [Power Supply](powerSupply.md) | [Manufacturer]  | [Model/Part Number]| 1        | Provides power to sensors and data logger and communication module| [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Component Name          | Quantity | Description                             | Unit Price (USD) | Total Cost (USD) |
+|-------------------------|----------|-----------------------------------------|-------------------|------------------|
+| Communication Module    | 1        | Enables real-time data transmission      | [Unit Price]      | [Total Cost]     |
+| [Power Supply](powerSupply.md) | 1        | Provides power to sensors and data logger and communication module| [Unit Price]      | [Total Cost]     |
 
 ### Additional Components
 
-| Component Name          | Manufacturer   | Model/Part Number  | Quantity | Description                                   | Features                                              | Unit Price (USD) | Total Cost (USD) |
-|-------------------------|----------------|--------------------|----------|-----------------------------------------------|-------------------------------------------------------|-------------------|------------------|
-| Enclosure/Protection    | [Manufacturer]  | [Model/Part Number]| 2        | Waterproof housing for sensors and logger     | [Features]                                            | [Unit Price]      | [Total Cost]     |
-| Mounting Hardware       | [Manufacturer]  | [Model/Part Number]| 4        | Hardware to secure sensors in place           | [Features]                                            | [Unit Price]      | [Total Cost]     |
-| Cables and Connectors    | [Manufacturer]  | [Model/Part Number]| 1        | Connects sensors to data logger               | [Features]                                            | [Unit Price]      | [Total Cost]     |
-| Calibration Equipment    | [Manufacturer]  | [Model/Part Number]| 1        | Instruments for sensor calibration           | [Features]                                            | [Unit Price]      | [Total Cost]     |
-| Software                | [Manufacturer]  | [Model/Part Number]| 1        | Software for configuration and data analysis | [Features]                                            | [Unit Price]      | [Total Cost]     |
-
-
+| Component Name          | Quantity | Description                                   | Unit Price (USD) | Total Cost (USD) |
+|-------------------------|----------|-----------------------------------------------|-------------------|------------------|
+| Enclosure/Protection    | 2        | Waterproof housing for sensors and logger     | [Unit Price]      | [Total Cost]     |
+| Mounting Hardware       | 4        | Hardware to secure sensors in place           | [Unit Price]      | [Total Cost]     |
+| Cables and Connectors    | 1        | Connects sensors to data logger               | [Unit Price]      | [Total Cost]     |
+| Calibration Equipment    | 1        | Instruments for sensor calibration           | [Unit Price]      | [Total Cost]     |
+| Software                | 1        | Software for configuration and data analysis | [Unit Price]      | [Total Cost]     |
