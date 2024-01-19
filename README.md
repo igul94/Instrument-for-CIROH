@@ -14,9 +14,9 @@ The submersible sensor unit consists of the following components:
 
 | Component Name              | Quantity | Description                                     | Unit Price (USD) | Total Cost (USD) |
 |-----------------------------|----------|-------------------------------------------------|-------------------|------------------|
-| [Submersible Pressure Sensor](submersiblePressureSensors.md)  | 1        | Measures water pressure at specific depth       | [Unit Price]      | [Total Cost]     |
+| [Submersible Pressure Sensor](submersiblePressureSensors.md)  | 1        | Measures water pressure at specific depth       | $650     | $650 |
 | Temperature Sensor           | 1        | Measures water temperature                      | [Unit Price]      | [Total Cost]     |
-| Data Logger                  | 1        | Records and stores sensor data                   | [Unit Price]      | [Total Cost]     |
+| Data Logger                  | 1        | Records and stores sensor data                   | $350 | $350 |
 
 ### 2. Real-time Data Transfer Unit
 
