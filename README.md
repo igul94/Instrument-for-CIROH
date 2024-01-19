@@ -25,7 +25,7 @@ To enable real-time data transfer, a communication module is integrated into the
 | Component Name          | Manufacturer   | Model/Part Number  | Quantity | Description                             | Features                                              | Unit Price (USD) | Total Cost (USD) |
 |-------------------------|----------------|--------------------|----------|-----------------------------------------|-------------------------------------------------------|-------------------|------------------|
 | Communication Module    | [Manufacturer]  | [Model/Part Number]| 1        | Enables real-time data transmission      | [Features]                                            | [Unit Price]      | [Total Cost]     |
-| Power Supply            | [Manufacturer]  | [Model/Part Number]| 4        | Provides power to sensors and data logger| [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Power Supply (powerSupply.md) | [Manufacturer]  | [Model/Part Number]| 1        | Provides power to sensors and data logger and communication module| [Features]                                            | [Unit Price]      | [Total Cost]     |
 
 ### Additional Components
 
