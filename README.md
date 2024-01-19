@@ -46,9 +46,15 @@ To enable real-time data transfer, a communication module is integrated into the
 - The submersible pressure sensor is crucial for accurately measuring water pressure at various depths.
 - Consider selecting a temperature sensor with suitable precision for accurate water temperature measurements.
 - The data logger plays a key role in recording and storing data; ensure compatibility with the selected sensors.
+- In Spyros Beltaos' paper, the RBR TD-1050 or RBR TD-2050 sensors mentioned are no longer in production. Instead, it is possible to use RBR's new sensors. However, I have not yet been able to obtain the exact prices of these sensors. I will attempt to contact the company to obtain a price. There are also several alternative sensors available that can be used in place of RBR, ready for use. I have tried to list their features and prices, and you can find this list above.
+- Certainly, the cost for a measurement system is not only the sensor itself but also includes other equipment that might be needed to set up a system. I have tried to compile a list of the equipment I think may be required for a setup, along with their approximate costs. You can find this list above.
 
 ## Sample Studies
 
 - https://doi.org/10.1016/j.coldregions.2011.03.005 
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706819/
+- https://journals.ametsoc.org/view/journals/atot/36/4/jtech-d-18-0214.1.xml
+- https://iopscience.iop.org/article/10.1088/0964-1726/17/4/045023
+- https://conservancy.umn.edu/bitstream/handle/11299/108651/pr322.pdf?sequence=1
+- https://www.mdpi.com/2073-4441/13/21/3139
 
