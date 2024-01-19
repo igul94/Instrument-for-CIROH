@@ -40,7 +40,7 @@ To enable real-time data transfer, a communication module is integrated into the
 
 ## Estimated Total Cost 
 
-	Total cost estimated between _** $800-to ...**_
+### Total cost estimated between _** $800-to ...**_
 
 
 ## Comments: (TO_DO igul)
