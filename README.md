@@ -15,7 +15,7 @@ The submersible sensor unit consists of the following components:
 
 | Component Name              | Quantity | Description                                     | Unit Price (USD) | Total Cost (USD) |
 |-----------------------------|----------|-------------------------------------------------|-------------------|------------------|
-| [Submersible Water Level Sensor](submersiblePressureSensors.md)  | 1        | Measures water pressure at specific depth       | [$720](submersiblePressureSensors.md#L9)| $720 |
+| [Submersible Water Level Sensor](submersiblePressureSensors.md)  | 1        | Measures water pressure at specific depth       | [$720](submersiblePressureSensors.md#L9)| [$720](submersiblePressureSensors.md#L9)|
 | [Ice Thickness Probe]          | 1        | Custom Design                     | [Unit Price]      | [Total Cost]     |
 <!-- | Data Logger                | 1        | Records and stores sensor data                   | $350 | $350 |-->
 
