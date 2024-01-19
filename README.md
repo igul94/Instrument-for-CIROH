@@ -1,4 +1,4 @@
-# Continuous Monitoring System README
+# Instruments for CIROH
 
 This repository contains the code and documentation for a continuous monitoring system designed for in situ measurements of environmental parameters, specifically focusing on water level and ice thickness. The system utilizes autonomous instruments for precise and continuous data collection in cold regions.
 
