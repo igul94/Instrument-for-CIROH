@@ -12,16 +12,37 @@ This repository contains the development and testing of a prototype for novel ob
 
 The submersible sensor unit consists of the following components:
 
-- **Pressure Logger:** Measures water pressure to determine the water level.
-- **Data Logger:** Records the collected data.
-- **Microcontroller:** Controls the operation of the sensor unit.
-- **Power Supply:** Provides the necessary power to the sensor unit.
+| Component Name              | Manufacturer   | Model/Part Number  | Quantity | Description                                     | Features                                              | Unit Price (USD) | Total Cost (USD) |
+|-----------------------------|----------------|--------------------|----------|-------------------------------------------------|-------------------------------------------------------|-------------------|------------------|
+| Submersible Pressure Sensor  | [Manufacturer]  | [Model/Part Number]| 1        | Measures water pressure at specific depth       | [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Temperature Sensor           | [Manufacturer]  | [Model/Part Number]| 1        | Measures water temperature                      | [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Data Logger                  | [Manufacturer]  | [Model/Part Number]| 1        | Records and stores sensor data                   | [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Power Supply                 | [Manufacturer]  | [Model/Part Number]| 4        | Provides power to sensors and data logger        | [Features]                                            | [Unit Price]      | [Total Cost]     |
 
 ### 2. Communication Module
 
 To enable real-time data transfer, a communication module is integrated into the system. This includes:
 
-- **Wireless Transmitter:** Facilitates the transmission of data.
-- **Antenna:** Enhances the communication range.
-- **Data Processing Unit:** Prepares data for transmission.
+| Component Name          | Manufacturer   | Model/Part Number  | Quantity | Description                             | Features                                              | Unit Price (USD) | Total Cost (USD) |
+|-------------------------|----------------|--------------------|----------|-----------------------------------------|-------------------------------------------------------|-------------------|------------------|
+| Communication Module    | [Manufacturer]  | [Model/Part Number]| 1        | Enables real-time data transmission      | [Features]                                            | [Unit Price]      | [Total Cost]     |
+
+### Additional Components
+
+| Component Name          | Manufacturer   | Model/Part Number  | Quantity | Description                                   | Features                                              | Unit Price (USD) | Total Cost (USD) |
+|-------------------------|----------------|--------------------|----------|-----------------------------------------------|-------------------------------------------------------|-------------------|------------------|
+| Enclosure/Protection    | [Manufacturer]  | [Model/Part Number]| 2        | Waterproof housing for sensors and logger     | [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Mounting Hardware       | [Manufacturer]  | [Model/Part Number]| 4        | Hardware to secure sensors in place           | [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Cables and Connectors    | [Manufacturer]  | [Model/Part Number]| 1        | Connects sensors to data logger               | [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Calibration Equipment    | [Manufacturer]  | [Model/Part Number]| 1        | Instruments for sensor calibration           | [Features]                                            | [Unit Price]      | [Total Cost]     |
+| Software                | [Manufacturer]  | [Model/Part Number]| 1        | Software for configuration and data analysis | [Features]                                            | [Unit Price]      | [Total Cost]     |
+
+## Installation
+
+Follow these steps to set up the submersible water level monitoring sensor:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone <repository_url>
+   cd submersible-water-level-sensor
 
