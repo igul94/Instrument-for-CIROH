@@ -44,5 +44,5 @@ To enable real-time data transfer, a communication module is integrated into the
 
 ## Sample Studies
 
-https://doi.org/10.1016/j.coldregions.2011.03.005 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706819/
+- https://doi.org/10.1016/j.coldregions.2011.03.005 
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8706819/
