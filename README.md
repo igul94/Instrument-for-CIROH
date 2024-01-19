@@ -6,7 +6,6 @@
 
 This repository contains the development and testing of a prototype for novel observation sensors designed to continuously measure changes in water level using pressure loggers. The goal is to collect observations in real-time and facilitate the monitoring of water levels.
 
-**Recommended items are displayed in bold**
 
 ## Components
 
@@ -16,7 +15,7 @@ The submersible sensor unit consists of the following components:
 
 | Component Name              | Quantity | Description                                     | Unit Price (USD) | Total Cost (USD) |
 |-----------------------------|----------|-------------------------------------------------|-------------------|------------------|
-| [Submersible Water Level Sensor](submersiblePressureSensors.md)  | 1        | Measures water pressure at specific depth       | $650     | $650 |
+| [Submersible Water Level Sensor](submersiblePressureSensors.md)  | 1        | Measures water pressure at specific depth       | [$650](submersiblePressureSensors.md)#L9| $650 |
 | [Ice Thickness Probe]          | 1        | Custom Design                     | [Unit Price]      | [Total Cost]     |
 <!-- | Data Logger                | 1        | Records and stores sensor data                   | $350 | $350 |-->
 
