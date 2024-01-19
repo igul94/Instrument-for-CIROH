@@ -11,6 +11,6 @@ The project is organized into two main folders:
 This folder contains all the necessary files and documentation related to the water level monitoring instrument. The system is designed to measure and record the water level in a continuous manner, providing valuable data for understanding water dynamics in cold environments.
 
 
-### 2. [Ice Thickness Instrument] (Water_level_Instrument/README.md)
+### 2. [Ice Thickness Instrument] (#Water_level_Instrument/README.md)
 
 This folder encompasses everything related to the ice thickness monitoring instrument. 
