@@ -1,4 +1,4 @@
-|Item                         |Qty per sensor|Cost of each unit|Cost per sensor|
+|Item                         |Qty per Instrument|Cost of each unit|Cost per Instrument|
 |-----------------------------|--------------------------|-----------------|---------------|
 |[Heltec AB02](https://heltec.org/project/htcc-ab02/) |1|$14.40|$14.40|   
 |[0.6W solar panel](https://voltaicsystems.com/0-6-watt-6-volt-solar-panel-etfe/)|1|$9.00|$9.00| 
