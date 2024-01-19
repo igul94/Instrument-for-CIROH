@@ -38,9 +38,10 @@ To enable real-time data transfer, a communication module is integrated into the
 | [Calibration Equipment](https://catalog.marquestscientific.com/item/solators-mini-tuff-guard-2-economy-gauge-installed/mini-tuff-gauge-isolator-2-economy-gauge-installed/mtg-22200s-pvc?gclid=Cj0KCQiA2KitBhCIARIsAPPMEhKZ0o6HKaEeIxSrRTRwFAI5jHU1AIoItZRNbcVqwtJxx7sKXvmgxLMaArjzEALw_wcB)  | 1        | Instruments for sensor calibration           |  $50 |  $50 |
 | Software                | 1        | Software for configuration and data analysis | Included | Included |
 
-## Estimated Total Cost
+## Estimated Total Cost 
 
-# **Between $800-to ...**
+	Total cost estimated between _** $800-to ...**_
+
 
 ## Comments: (TO_DO igul)
 - The submersible pressure sensor is crucial for accurately measuring water pressure at various depths.
