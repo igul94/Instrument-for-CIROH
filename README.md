@@ -6,7 +6,8 @@
 
 This repository contains the development and testing of a prototype for novel observation sensors designed to continuously measure changes in water level using pressure loggers. The goal is to collect observations in real-time and facilitate the monitoring of water levels.
 
-<span style="color: red;">Recommended items are highlighted in red</span>
+<font color="red">Recommended items are highlighted in red</font>
+
 ## Components
 
 ### 1. Submersible Sensor Unit
