@@ -75,7 +75,7 @@ Camera Installation to flood inundation sensors with NOAA
     - Resolution
     - Night Vision ???
     - Stream method
-#### Low cost - Low Power - Low Resolution
+#### Low cost - Low Power - Arduino Compatible
 
 | Camera                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Cost | Features |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------|
@@ -115,6 +115,7 @@ Camera Installation to flood inundation sensors with NOAA
    - Applications or interfaces that allow users to view, control, and interact with the video streams. This could be a web interface, mobile app, or other visualization tools.
 
 ## Streaming Protocols
+    - HTTP
     - WebRTC
     - RTSP
     - HLS
