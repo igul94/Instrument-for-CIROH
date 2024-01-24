@@ -42,7 +42,7 @@ To enable real-time data transfer, a communication module is integrated into the
 
 ## Estimated Total Cost 
 
- ### Total cost estimated between <strong>$800-to ... </strong>
+ ### Total cost estimated between 
 
 | Total Estimated Rough Cost                        | Cost per Instrument             |
 |---------------------------------------------------|---------------------------------|
