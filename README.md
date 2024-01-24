@@ -20,6 +20,7 @@ The submersible sensor unit consists of the following components:
 | [Temperature Sensor](https://www.adafruit.com/product/381?gad_source=1&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6_lTUc8ztyeZamatZAXVRI20XArqzOcbzk4sCRzwDLYhH72p3-LqV8aAjV1EALw_wcB) | 15       | WaterProof Temperature Sensor to calculate signal propagation underwater | [$10](https://www.adafruit.com/product/381?gad_source=1&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6_lTUc8ztyeZamatZAXVRI20XArqzOcbzk4sCRzwDLYhH72p3-LqV8aAjV1EALw_wcB) | [$150](https://www.adafruit.com/product/381?gad_source=1&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6_lTUc8ztyeZamatZAXVRI20XArqzOcbzk4sCRzwDLYhH72p3-LqV8aAjV1EALw_wcB) |
 
 
+
 ### 2. Real-time Data Transfer Unit
 
 To enable real-time data transfer, a communication module is integrated into the system. This includes:
@@ -43,6 +44,11 @@ To enable real-time data transfer, a communication module is integrated into the
 
  ### Total cost estimated between <strong>$800-to ... </strong>
 
+| Total Estimated Rough Cost         | Cost per Instrument |
+|------------------------------------|---------------------|
+| [Instrument #1 (Ice Thickness)]    | $500                |
+| [Instrument #2 (Water Level)]      | $800 - $2000        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+| [Instrument #1 and Instrument #2)] | 1300 - $2500        |
 ## Comments: (TO_DO igul)
 - The submersible pressure sensor is crucial for accurately measuring water pressure at various depths.
 - Consider selecting a temperature sensor with suitable precision for accurate water temperature measurements.
