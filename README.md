@@ -13,29 +13,31 @@ This repository contains the development and testing of a prototype for novel ob
 
 The submersible sensor unit consists of the following components:
 
-| Component Name                                                  | Quantity | Description                                     | Unit Price (USD) | Total Cost (USD) |
-|-----------------------------------------------------------------|----------|-------------------------------------------------|-------------------|------------------|
-| [Submersible Water Level Sensor](submersiblePressureSensors.md) | 1        | Measures water pressure at specific depth       | [$720](submersiblePressureSensors.md#L9)| [$720](submersiblePressureSensors.md#L9)|
-| [Ice Thickness Probe](IceThicknessProbe.md)                   | 1        | Custom Design                     | [$350](IceThicknessProbe.md#L18)      | [$350](IceThicknessProbe.md#L18)     |
+| Component Name                                                                                                                                                             | Quantity | Description                                                              | Unit Price (USD)                                                                                                                                            | Total Cost (USD)                                                                                                                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Submersible Water Level Sensor](submersiblePressureSensors.md)                                                                                                            | 1        | Measures water pressure at specific depth                                | [$720](submersiblePressureSensors.md#L9)                                                                                                                    | [$720](submersiblePressureSensors.md#L9)                                                                                                                     |
+| [Ice Thickness Probe](IceThicknessProbe.md)                                                                                                                                | 1        | Custom Design                                                            | [$350](IceThicknessProbe.md#L18)                                                                                                                            | [$350](IceThicknessProbe.md#L18)                                                                                                                             |
+| [Temperature Sensor](https://www.adafruit.com/product/381?gad_source=1&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6_lTUc8ztyeZamatZAXVRI20XArqzOcbzk4sCRzwDLYhH72p3-LqV8aAjV1EALw_wcB) | 15       | WaterProof Temperature Sensor to calculate signal propagation underwater | [$10](https://www.adafruit.com/product/381?gad_source=1&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6_lTUc8ztyeZamatZAXVRI20XArqzOcbzk4sCRzwDLYhH72p3-LqV8aAjV1EALw_wcB) | [$150](https://www.adafruit.com/product/381?gad_source=1&gclid=Cj0KCQiAh8OtBhCQARIsAIkWb6_lTUc8ztyeZamatZAXVRI20XArqzOcbzk4sCRzwDLYhH72p3-LqV8aAjV1EALw_wcB) |
+
 
 ### 2. Real-time Data Transfer Unit
 
 To enable real-time data transfer, a communication module is integrated into the system. This includes:
 
-| Component Name          | Quantity | Description                             | Unit Price (USD) | Total Cost (USD) |
-|-------------------------|----------|-----------------------------------------|-------------------|------------------|
-| [Communication Module](communicationModule.md) | 1        | Enables real-time data transmission      | $40 | $40 |
-| [Power Supply](powerSupply.md) | 1 | Provides power to sensors and data logger and communication module| $70 | $70 |
+| Component Name                                 | Quantity | Description                                                        | Unit Price (USD) | Total Cost (USD) |
+|------------------------------------------------|----------|--------------------------------------------------------------------|------------------|------------------|
+| [Communication Module](communicationModule.md) | 1        | Enables real-time data transmission                                | $40              | $40              |
+| [Power Supply](powerSupply.md)                 | 1        | Provides power to sensors and data logger and communication module | $70              | $70              |
 
 ### 3. Additional Components
 
-| Component Name          | Quantity | Description                                   | Unit Price (USD) | Total Cost (USD) |
-|-------------------------|----------|-----------------------------------------------|-------------------|------------------|
-| [Enclosure/Protection]   | 2        | Waterproof housing for sensors and logger (stainless steel)     | $25 | $50 |
-| [Mounting Hardware]   | 1        | Hardware to secure sensors in place           | $40 | $40 |
-| [Cables and Connectors](https://www.wireandcableyourway.com/submersible-pump-cable)    | 1        | Connects sensors to data logger               | $30 | $30 |
-| [Calibration Equipment](https://catalog.marquestscientific.com/item/solators-mini-tuff-guard-2-economy-gauge-installed/mini-tuff-gauge-isolator-2-economy-gauge-installed/mtg-22200s-pvc?gclid=Cj0KCQiA2KitBhCIARIsAPPMEhKZ0o6HKaEeIxSrRTRwFAI5jHU1AIoItZRNbcVqwtJxx7sKXvmgxLMaArjzEALw_wcB)  | 1        | Instruments for sensor calibration           |  $50 |  $50 |
-| Software                | 1        | Software for configuration and data analysis | Included | Included |
+| Component Name                                                                                                                                                                                                                                                                               | Quantity | Description                                                 | Unit Price (USD) | Total Cost (USD) |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|-------------------------------------------------------------|------------------|------------------|
+| [Enclosure/Protection]                                                                                                                                                                                                                                                                       | 2        | Waterproof housing for sensors and logger (stainless steel) | $25              | $50              |
+| [Mounting Hardware]                                                                                                                                                                                                                                                                          | 1        | Hardware to secure sensors in place                         | $40              | $40              |
+| [Cables and Connectors](https://www.wireandcableyourway.com/submersible-pump-cable)                                                                                                                                                                                                          | 1        | Connects sensors to data logger                             | $30              | $30              |
+| [Calibration Equipment](https://catalog.marquestscientific.com/item/solators-mini-tuff-guard-2-economy-gauge-installed/mini-tuff-gauge-isolator-2-economy-gauge-installed/mtg-22200s-pvc?gclid=Cj0KCQiA2KitBhCIARIsAPPMEhKZ0o6HKaEeIxSrRTRwFAI5jHU1AIoItZRNbcVqwtJxx7sKXvmgxLMaArjzEALw_wcB) | 1        | Instruments for sensor calibration                          | $50              | $50              |
+| Software                                                                                                                                                                                                                                                                                     | 1        | Software for configuration and data analysis                | Included         | Included         |
 
 ## Estimated Total Cost 
 
