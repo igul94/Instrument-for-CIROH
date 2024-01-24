@@ -44,11 +44,11 @@ To enable real-time data transfer, a communication module is integrated into the
 
  ### Total cost estimated between <strong>$800-to ... </strong>
 
-| Total Estimated Rough Cost         | Cost per Instrument |
-|------------------------------------|---------------------|
-| [Instrument #1 (Ice Thickness)]    | $500                |
-| [Instrument #2 (Water Level)]      | $800 - $2000        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-| [Instrument #1 and Instrument #2)] | 1300 - $2500        |
+| Total Estimated Rough Cost                        | Cost per Instrument             |
+|---------------------------------------------------|---------------------------------|
+| [Instrument #1 (Ice Thickness)](README.md#L16)    | <strong>$500  </strong>         |
+| [Instrument #2 (Water Level)](README.md#L16)      | <strong> $800 - $2000 </strong> |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+| [Instrument #1 and Instrument #2)](README.md#L16) | <strong>$1300 - $2500</strong>  |
 ## Comments: (TO_DO igul)
 - The submersible pressure sensor is crucial for accurately measuring water pressure at various depths.
 - Consider selecting a temperature sensor with suitable precision for accurate water temperature measurements.
