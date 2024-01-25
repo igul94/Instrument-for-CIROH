@@ -66,7 +66,7 @@ To enable real-time data transfer, a communication module is integrated into the
 
 # Camera Installation to flood inundation sensors
 Camera Installation to flood inundation sensors with NOAA
-
+[Camera Selection Guide] (objectives.md)
 ## Comments
     - Hellium network is not suitable for video stram but still considerable if the FPS will be so low
     
