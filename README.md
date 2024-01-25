@@ -69,7 +69,7 @@ Camera Installation to flood inundation sensors with NOAA
  
 [Camera Selection Guide](objectives.md)
 ## Comments
-    - Hellium network is not suitable for video stram but still considerable if the FPS will be so low
+    - Hellium network is not suitable for video stream but still considerable if the FPS will be so low
     
 ## Type of Camera
     - FPS ???
