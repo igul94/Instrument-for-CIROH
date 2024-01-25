@@ -1,5 +1,9 @@
 "# Instruments-for-CIROH" 
 
+<div style="text-align:center;">
+  <img src="./CIROH logo.png" alt="CIROH Logo" width="300" />
+</div>
+
 # Submersible Water Level and Ice Thickness Monitoring Sensor Prototype
 
 ## Overview
@@ -76,7 +80,7 @@ Camera Installation to flood inundation sensors with NOAA
     - Resolution
     - Night Vision ???
     - Stream method
-#### Low cost - Low Power - Arduino Compatible
+#### Low cost - Low Power - Arduino Compatible dev boards with camera
 
 | Camera                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Cost | Features |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|----------|
