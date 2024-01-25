@@ -162,6 +162,7 @@ Choosing the right protocol depends on factors like latency requirements, bandwi
    - ESP32 Camera
    - Heltec Lora AB01 Board 
    - HTTP (HLS) Protocol
+   - Crowdsourcing (optional): A mobile app pr web page could be designed to upload images of flood.
 
    ### Comments on this selection
 Best Streaming Protocol for Heltec AB01 Board to Stream Video over Helium Network
@@ -182,6 +183,8 @@ Overall, HTTP Live Streaming (HLS) is the best streaming protocol for streaming 
 
 ## Crowdsourcing Platforms
    - [USGS Flood Event Viewer](https://stn.wim.usgs.gov/FEV/) 
+   - [NOAA's National Water Center (NWC) Flood Inundation Mapping](https://water.weather.gov/ahps/inundation.php)
+   - [CrowdHydrology](http://www.crowdhydrology.com/)
    - [FloodCrowd](https://crowdandcloud.org/floodcrowd) (UK)
 
 ### USGS Flood Event Viewer
