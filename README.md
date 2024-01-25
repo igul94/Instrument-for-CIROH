@@ -105,7 +105,13 @@ Camera Installation to flood inundation sensors with NOAA
 
 #### Security Cameras
 
-#### PTZ
+| Camera                                                                                                                                                                                                                                                                                                                                                                   | Cost | Features                                                                                                                       |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|--------------------------------------------------------------------------------------------------------------------------------|
+| [Wyze Cam Outdoor](https://www.wyze.com/products/wyze-cam-outdoor)                                                                                                                                                                                                                                                                                                       | $74  | Weather-resistant, 1080p HD video, Night vision, Motion detection, Two-way audio                                               |
+| [Blink Outdoor](https://www.amazon.com/All-New-Blink-Outdoor-Floodlight-Camera/dp/B0BBX45V5B?maas=maas_adg_E6DD927B58F595A4E32792B58DF8ED2A_afap_abs&ref_=aa_maas&tag=maas)                                                                                                                                                                                              | $130 | Weather-resistant, HD video, Motion detection, Wire-free                                                                       |
+| [Reolink Argus 2](https://reolink.com/product/argus-2e/)                                                                                                                                                                                                                                                                                                                 | $77  | Weatherproof, 1080p HD video, Night vision, Motion detection, Two-way audio                                                    |
+| [Zmodo Outdoor](https://www.zmodo.com/1080p-outdoor-wifi-camera)                                                                                                                                                                                                                                                                                                         | $32  | Weather-resistant, 720p HD video, Motion detection, Night vision                                                               |
+| [Xiaomi Mi Home](https://www.amazon.com/Xiaomi-Weatherproof-Detection-Time-Lapse-Photography/dp/B0CCR98C8F/ref=asc_df_B0CCR98C8F/?tag=hyprod-20&linkCode=df0&hvadid=673653936678&hvpos=&hvnetw=g&hvrand=17055244995071933241&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9003488&hvtargid=pla-2205244239275&psc=1&mcid=247f7c329bcc30d893b45bc24e23516e) | $50  | Indoor camera (suitable for outdoor use with proper protection), 1080p HD video, Motion detection, Night vision, Two-way audio |
 
 ## IoT Video Streaming Architecture
 
@@ -127,11 +133,9 @@ Camera Installation to flood inundation sensors with NOAA
    - Applications or interfaces that allow users to view, control, and interact with the video streams. This could be a web interface, mobile app, or other visualization tools.
 
 ## Streaming Protocols
-    - HTTP
+    - HTTP (HLS)
     - WebRTC
     - RTSP
-    - HLS
-
 
 1. **Real-Time Streaming Protocol (RTSP):**
    - A standard protocol used for establishing and controlling media sessions between endpoints. It's commonly used for live streaming and supports various video and audio formats.
@@ -153,7 +157,49 @@ Choosing the right protocol depends on factors like latency requirements, bandwi
     - https://developer.tuya.com/en/iot-video-live-stream?_source=27a82e932e7eef2e999cd6f7c925541d&bd_vid=8634295905315177986
     - https://www.mdpi.com/2624-831X/4/4/21
 
-## Cost Estimate
+## Offered Selection
+
+   - ESP32 Camera
+   - Heltec Lora AB01 Board 
+   - HTTP (HLS) Protocol
+
+   ### Comments on this selection
+Best Streaming Protocol for Heltec AB01 Board to Stream Video over Helium Network
+
+For streaming video over the Helium network using a Heltec LoRa AB01 board, it's essential to consider the constraints of the LoRa network, such as low bandwidth and intermittent connectivity. Given these constraints, the best streaming protocol would be one that is optimized for low bandwidth and can adapt to varying network conditions. In this context, HTTP Live Streaming (HLS) would likely be the most suitable choice. Here's why:
+
+1. **Bandwidth Efficiency**: HLS segments video into smaller chunks, allowing for efficient use of bandwidth. This segmentation is particularly advantageous for low-bandwidth networks like LoRa.
+
+2. **Adaptive Streaming**: HLS supports adaptive bitrate streaming, meaning it can adjust the video quality based on the available network bandwidth. This adaptability is crucial for maintaining a consistent streaming experience over the fluctuating connectivity of the Helium network.
+
+3. **Resilience to Packet Loss**: HLS is designed to handle packet loss gracefully. Each segment of the video stream is independent, so the loss of a single segment does not affect the playback of subsequent segments. This resilience is beneficial for maintaining video quality over the Helium network, which may experience packet loss due to its long-range and low-power nature.
+
+4. **Widely Supported**: HLS is a widely supported streaming protocol, with support across various platforms and devices. This compatibility makes it easier to integrate with different client applications for viewing the streamed video.
+
+5. **Ease of Implementation**: Implementing HLS streaming on the Heltec LoRa AB01 board should be feasible, as it primarily involves segmenting the video stream into chunks and serving them over HTTP. The Heltec LoRa AB01 board can handle HTTP communication, and HLS libraries are available for encoding and decoding video streams.
+
+Overall, HTTP Live Streaming (HLS) is the best streaming protocol for streaming video over the Helium network using a Heltec LoRa AB01 board, as it offers bandwidth efficiency, adaptive streaming, resilience to packet loss, wide support, and ease of implementation.
+
+## Crowdsourcing Platforms
+   - [USGS Flood Event Viewer](https://stn.wim.usgs.gov/FEV/) 
+   - [FloodCrowd](https://crowdandcloud.org/floodcrowd) (UK)
+
+### USGS Flood Event Viewer
+
+In the United States, one example of a flood inundation crowdsourcing platform is **USGS Flood Event Viewer**.
+
+- **Purpose**: The USGS Flood Event Viewer is a platform developed by the United States Geological Survey (USGS) to provide real-time flood inundation mapping and crowd-sourced flood observations.
+- **User Interface**: It offers a user-friendly web interface where users can access flood maps, submit flood reports, and view flood-related data.
+- **Flood Mapping**: The platform displays real-time flood inundation maps based on data from USGS streamgages, weather forecasts, and user-contributed observations.
+- **Crowdsourcing**: Users can report flood events by providing location information, photos, videos, and descriptions of flood impacts. These reports are integrated into the flood mapping system to enhance situational awareness.
+- **Data Visualization**: The USGS Flood Event Viewer presents flood data through interactive maps, graphs, and charts, allowing users to explore flood extents, water levels, and historical flood events.
+- **Alerting System**: The platform provides alerts and notifications to users in flood-prone areas, including flood warnings, evacuation notices, and updates on flood conditions.
+- **Integration**: It integrates with other federal, state, and local agencies involved in flood monitoring and emergency response, facilitating data sharing and coordination efforts.
+- **Data Quality Control**: The USGS implements quality control measures to ensure the accuracy and reliability of flood data, including validation of user-contributed reports and calibration of hydrological models.
+- **Public Engagement**: The platform encourages public engagement in flood monitoring and resilience planning by providing educational resources, outreach materials, and opportunities for community participation.
+- **Accessibility**: The USGS Flood Event Viewer is accessible to users across the United States and is compatible with desktop computers, mobile devices, and GIS software.
+
+The USGS Flood Event Viewer serves as a valuable resource for flood monitoring, risk assessment, and emergency management in the United States, leveraging both scientific data and citizen observations to improve flood preparedness and response efforts.
 
 ## Sample Studies and Related Works
 #### Studies
