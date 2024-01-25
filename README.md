@@ -145,8 +145,18 @@ Choosing the right protocol depends on factors like latency requirements, bandwi
 
 ## Sample Studies and Related Works
 #### Studies
-
+- https://doi.org/10.1016/j.measurement.2018.05.100
+- https://doi.org/10.1145/3495243.3558264
+- https://doi.org/10.3389/frwa.2021.766918
+- https://doi.org/10.3390/iot4040021
+- https://doi.org/10.1080/02626667.2022.2079415
+- https://doi.org/10.3390/rs13142661
+- https://doi.org/10.3390/s19225012
+- https://doi.org/10.3390/s23146314
+- https://doi.org/10.1029/2008WR006950
+- https://doi.org/10.3390/w15183233
 #### Url's
+- https://bigbadcrad.shinyapps.io/SHARKS/
 - https://www.cnx-software.com/2024/01/19/16-grove-vision-ai-v2-module-features-wiseeye2-hx6538-arm-cortex-m55-ethos-u55-ai-microcontroller/
 - https://www.cnx-software.com/2022/10/31/tinyml-cam-pipeline-esp32-fast-image-recognition/
 - https://www.hackster.io/limengdu0117/2024-mcu-ai-vision-boards-performance-comparison-998505
