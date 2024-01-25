@@ -1,10 +1,10 @@
-"# Instruments-for-CIROH" 
+"# Instruments-for-CIROH"
+
+# Submersible Water Level and Ice Thickness Monitoring Sensor Prototype
 
 <div style="text-align:center;">
   <img src="./CIROH logo.png" alt="CIROH Logo" width="300" />
 </div>
-
-# Submersible Water Level and Ice Thickness Monitoring Sensor Prototype
 
 ## Overview
 
@@ -68,7 +68,14 @@ To enable real-time data transfer, a communication module is integrated into the
 - https://conservancy.umn.edu/bitstream/handle/11299/108651/pr322.pdf?sequence=1
 - https://www.mdpi.com/2073-4441/13/21/3139
 
+
+
+
 # Camera Installation to flood inundation sensors
+<div style="text-align:center;">
+  <img src="./NOAA Print.png" alt="NOAA Logo" width="300" />
+</div>
+
 Camera Installation to flood inundation sensors with NOAA
  
 [Camera Selection Guide](objectives.md)
