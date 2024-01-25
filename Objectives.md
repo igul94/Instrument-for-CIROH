@@ -6,7 +6,7 @@
      - High Resolution: Opt for cameras with high resolution for clear and detailed imagery.
      - Durability: Choose durable cameras capable of withstanding environmental conditions.
      - Water Resistance: Select water-resistant cameras to endure potential exposure to water.
-
+     - Night Vision
 ## 2. Connection and Streaming Methods
    - **Objective:** Establish reliable connections for seamless data transmission.
    - **Considerations:**
